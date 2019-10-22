@@ -1,0 +1,10 @@
+header{
+  font-style: italic;
+  font-size: 21px;
+  color: blue;
+}
+.question {
+    font-weight: bold;
+    color: red;
+    font-size: 14px
+}
